@@ -1,6 +1,6 @@
-Educational level,ASD,No ASD
+group,var1,var2
 Basic,442,36075
-Vocational or none,29,12864
-High school,21,3594
-University degree,11,4782
-Missing or unknown,84,6207
+VocationalOrNone,29,12864
+HighSchool,21,3594
+UniversityDegree,11,4782
+MissingOrUnknown,84,6207
